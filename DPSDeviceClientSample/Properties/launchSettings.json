@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "DPSDeviceClientSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "enrollmentGroupPrimaryKey": "{Your DPS enrollment group primary key}",
+        "IdScope": "{Your DPS Id Scope}",
+        "GlobalDeviceEndpoint": "global.azure-devices-provisioning.net",
+        "deviceId": "{Your Device Id}",
+        "IoTHub": "{Your IoT Hub endpoint}",
+        "enrollmentGroupSecondaryKey": "{Your DPS enrollment group secondary key}"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeviceClientSample", "DeviceClientSample\DeviceClientSample.csproj", "{4C1393AF-5E43-49F3-8FFA-6E4F1900F227}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPSDeviceClientSample", "DPSDeviceClientSample\DPSDeviceClientSample.csproj", "{59E47E57-C016-4268-B1DF-4D4F6E035BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1393AF-5E43-49F3-8FFA-6E4F1900F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1393AF-5E43-49F3-8FFA-6E4F1900F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1393AF-5E43-49F3-8FFA-6E4F1900F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1393AF-5E43-49F3-8FFA-6E4F1900F227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E47E57-C016-4268-B1DF-4D4F6E035BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E47E57-C016-4268-B1DF-4D4F6E035BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E47E57-C016-4268-B1DF-4D4F6E035BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E47E57-C016-4268-B1DF-4D4F6E035BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF14E0F-F21F-43AB-858D-86F969B91CA5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nimccoll.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DeviceClientSample\\DeviceClientSample.csproj
+		SccProjectName1 = DeviceClientSample
+		SccLocalPath1 = DeviceClientSample
+		SccProjectUniqueName2 = DPSDeviceClientSample\\DPSDeviceClientSample.csproj
+		SccProjectName2 = DPSDeviceClientSample
+		SccLocalPath2 = DPSDeviceClientSample
+	EndGlobalSection
+EndGlobal

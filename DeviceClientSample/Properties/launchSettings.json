@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "DeviceClientSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionString": "{Your IoT Hub Connection String}"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
